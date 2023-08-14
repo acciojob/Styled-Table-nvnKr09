@@ -1,1 +1,10 @@
 /* your code */
+table{
+	border: 1px solid black;
+	border-radius:10px;
+	width:90vw;
+}
+.table_row{
+background:#215a8e;
+	color:white;
+}
